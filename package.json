@@ -1,0 +1,21 @@
+{
+  "name": "coffee",
+  "version": "0.0.0",
+  "description": "CoffeeScript sample source",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReindeerLab/coffee.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ReindeerLab/coffee/issues"
+  },
+  "homepage": "https://github.com/ReindeerLab/coffee",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1"
+  }
+}
